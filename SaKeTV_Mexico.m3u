@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="axnespaol" tvg-name="AXN Español" tvg-logo="https://logo.clearbit.com/axn.com?size=128" group-title="Series",AXN Español
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-id="tntingls" tvg-name="TNT Inglés" tvg-logo="https://logo.clearbit.com/tntdrama.com?size=128" group-title="Películas",TNT Inglés
+http://181.78.211.244:8005/play/a09g/index.m3u8
+#EXTINF:-1 tvg-id="tntespaol" tvg-name="TNT Español" tvg-logo="https://logo.clearbit.com/tntdrama.com?size=128" group-title="Películas",TNT Español
+http://45.171.64.30:6060/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="tntnovelasespaol" tvg-name="TNT Novelas Español" tvg-logo="https://logo.clearbit.com/tntnovelas.com?size=128" group-title="Series",TNT Novelas Español
+http://190.61.47.54:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="tntseriesespaol" tvg-name="TNT Series Español" tvg-logo="https://logo.clearbit.com/tntseries.com?size=128" group-title="Series",TNT Series Español
+http://168.196.127.137:6001/play/a095/index.m3u8
+#EXTINF:-1 tvg-id="wbtv" tvg-name="WB TV" tvg-logo="https://logo.clearbit.com/warnerbros.com?size=128" group-title="Películas",WB TV
+http://38.134.250.110:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="sonychannelespaol" tvg-name="Sony Channel Español" tvg-logo="https://logo.clearbit.com/sonypictures.com?size=128" group-title="Series",Sony Channel Español
+http://138.121.15.230:9002/SONY/index.m3u8
+#EXTINF:-1 tvg-id="sonychannel" tvg-name="Sony Channel" tvg-logo="https://logo.clearbit.com/sonypictures.com?size=128" group-title="Series",Sony Channel
+http://190.93.224.42/SONY-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://logo.clearbit.com/cnn.com?size=128" group-title="Noticias",CNN
+http://168.228.44.241:9997/play/a073/index.m3u8
+#EXTINF:-1 tvg-id="tntseriesenlacefx" tvg-name="TNT Series (enlace FX)" tvg-logo="https://logo.clearbit.com/fxnetworks.com?size=128" group-title="Series",TNT Series (enlace FX)
+http://190.93.224.42/FX/index.m3u8
+#EXTINF:-1 tvg-id="ae" tvg-name="A&E" tvg-logo="https://logo.clearbit.com/aetv.com?size=128" group-title="Series",A&E
+http://138.121.15.230:9002/A&E/index.m3u8
+#EXTINF:-1 tvg-id="telemundopuertorico" tvg-name="Telemundo Puerto Rico" tvg-logo="https://logo.clearbit.com/telemundo.com?size=128" group-title="Nacionales",Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+#EXTINF:-1 tvg-id="telemundointernacional" tvg-name="Telemundo Internacional" tvg-logo="https://logo.clearbit.com/telemundo.com?size=128" group-title="Nacionales",Telemundo Internacional
+http://190.60.46.156:8089/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="universalchannel" tvg-name="Universal Channel" tvg-logo="https://logo.clearbit.com/universalstudios.com?size=128" group-title="Series",Universal Channel
+http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="southparktv" tvg-name="South Park TV" tvg-logo="https://logo.clearbit.com/southparkstudios.com?size=128" group-title="Comedia",South Park TV
+https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
+#EXTINF:-1 tvg-id="comedycentral" tvg-name="Comedy Central" tvg-logo="https://logo.clearbit.com/cc.com?size=128" group-title="Comedia",Comedy Central
+https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
+#EXTINF:-1 tvg-id="space" tvg-name="SPACE" tvg-logo="https://logo.clearbit.com/space.com?size=128" group-title="Películas",SPACE
+http://45.171.64.30:6060/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="historia" tvg-name="Historia" tvg-logo="https://logo.clearbit.com/history.com?size=128" group-title="Documentales",Historia
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://logo.clearbit.com/amc.com?size=128" group-title="Películas",AMC
+http://138.121.15.230:9002/AMC/index.m3u8
+#EXTINF:-1 tvg-id="acapulcoshore" tvg-name="Acapulco Shore" tvg-logo="https://logo.clearbit.com/mtv.com?size=128" group-title="Entretenimiento",Acapulco Shore
+https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
+#EXTINF:-1 tvg-id="mtvseries" tvg-name="MTV Series" tvg-logo="https://logo.clearbit.com/mtv.com?size=128" group-title="Entretenimiento",MTV Series
+https://streaming.onnethn.com/MTV/playlist.m3u8
+#EXTINF:-1 tvg-id="ridiculousness" tvg-name="Ridiculousness" tvg-logo="https://logo.clearbit.com/mtv.com?size=128" group-title="Comedia",Ridiculousness
+https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://logo.clearbit.com/cinemax.com?size=128" group-title="Películas",Cinemax
+https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://logo.clearbit.com/hbo.com?size=128" group-title="Películas",HBO 2
+http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO Family" tvg-logo="https://logo.clearbit.com/hbo.com?size=128" group-title="Películas",HBO Family
+http://45.171.64.30:6060/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://logo.clearbit.com/hbo.com?size=128" group-title="Películas",HBO
+https://streaming.onnethn.com/HBO/playlist.m3u8
+#EXTINF:-1 tvg-id="golden" tvg-name="Golden" tvg-logo="https://logo.clearbit.com/televisa.com?size=128" group-title="Películas",Golden
+http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8
+#EXTINF:-1 tvg-id="goldenedge" tvg-name="Golden Edge" tvg-logo="https://logo.clearbit.com/televisa.com?size=128" group-title="Películas",Golden Edge
+http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
+#EXTINF:-1 tvg-id="cinelatino" tvg-name="Cine Latino" tvg-logo="https://logo.clearbit.com/cinelatino.com?size=128" group-title="Películas",Cine Latino
+http://200.115.96.61:9090/play/a0i5/index.m3u8
+#EXTINF:-1 tvg-id="canal10chiapas" tvg-name="Canal 10 Chiapas" tvg-logo="https://logo.clearbit.com/canal10chiapas.com?size=128" group-title="Nacionales",Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 tvg-id="studiouniversal" tvg-name="Studio Universal" tvg-logo="https://logo.clearbit.com/universalstudios.com?size=128" group-title="Películas",Studio Universal
+http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-id="dpelcula" tvg-name="D Película" tvg-logo="https://logo.clearbit.com/televisa.com?size=128" group-title="Películas",D Película
+http://181.224.200.5:2277/play/a0d1/index.m3u8
+#EXTINF:-1 tvg-id="laleyendadeaang" tvg-name="La Leyenda de Aang" tvg-logo="https://logo.clearbit.com/nickelodeon.com?size=128" group-title="Infantil",La Leyenda de Aang
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+#EXTINF:-1 tvg-id="nickteen" tvg-name="NickTeen" tvg-logo="https://logo.clearbit.com/nick.com?size=128" group-title="Infantil",NickTeen
+https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://logo.clearbit.com/nick.com?size=128" group-title="Infantil",Nickelodeon
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 tvg-id="tcm" tvg-name="TCM" tvg-logo="https://logo.clearbit.com/tcm.com?size=128" group-title="Películas",TCM
+https://streaming.onnethn.com/TCM_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="disneychannel" tvg-name="Disney Channel" tvg-logo="https://logo.clearbit.com/disney.com?size=128" group-title="Infantil",Disney Channel
+http://190.14.10.19:16000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="disneyjr" tvg-name="Disney Jr." tvg-logo="https://logo.clearbit.com/disneyjunior.com?size=128" group-title="Infantil",Disney Jr.
+http://181.78.14.26:4000/play/a073/index.m3u8
+#EXTINF:-1 tvg-id="discoverykids" tvg-name="Discovery Kids" tvg-logo="https://logo.clearbit.com/discoverykids.com?size=128" group-title="Infantil",Discovery Kids
+http://181.224.200.5:2277/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="nickjr" tvg-name="Nick Jr." tvg-logo="https://logo.clearbit.com/nickjr.com?size=128" group-title="Infantil",Nick Jr.
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
+#EXTINF:-1 tvg-id="nick" tvg-name="Nick" tvg-logo="https://logo.clearbit.com/nick.com?size=128" group-title="Infantil",Nick
+http://190.93.224.42/NICK/index.m3u8
+#EXTINF:-1 tvg-id="rugrats" tvg-name="Rugrats" tvg-logo="https://logo.clearbit.com/nick.com?size=128" group-title="Infantil",Rugrats
+https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
+#EXTINF:-1 tvg-id="bitme" tvg-name="BitMe" tvg-logo="https://logo.clearbit.com/bitme.gg?size=128" group-title="Entretenimiento",BitMe
+https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
+#EXTINF:-1 tvg-id="espnpremium" tvg-name="ESPN Premium" tvg-logo="https://logo.clearbit.com/espn.com?size=128" group-title="Deportes",ESPN Premium
+http://158.172.155.130:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-id="espnhd" tvg-name="ESPN HD" tvg-logo="https://logo.clearbit.com/espn.com?size=128" group-title="Deportes",ESPN HD
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://logo.clearbit.com/espn.com?size=128" group-title="Deportes",ESPN 2
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://logo.clearbit.com/espn.com?size=128" group-title="Deportes",ESPN 3
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://logo.clearbit.com/espn.com?size=128" group-title="Deportes",ESPN 4
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://logo.clearbit.com/espn.com?size=128" group-title="Deportes",ESPN 5
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://logo.clearbit.com/espn.com?size=128" group-title="Deportes",ESPN 6
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" tvg-logo="https://logo.clearbit.com/espn.com?size=128" group-title="Deportes",ESPN 7
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 tvg-id="espn8" tvg-name="ESPN 8" tvg-logo="https://logo.clearbit.com/espn.com?size=128" group-title="Deportes",ESPN 8
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://logo.clearbit.com/espn.com?size=128" group-title="Deportes",ESPN
+http://168.228.44.241:9997/play/a06p/index.m3u8
+#EXTINF:-1 tvg-id="ligamx" tvg-name="Liga MX" tvg-logo="https://logo.clearbit.com/ligamx.net?size=128" group-title="Deportes",Liga MX
+http://45.5.118.152:8000/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="foxsports" tvg-name="FOX Sports" tvg-logo="https://logo.clearbit.com/foxsports.com?size=128" group-title="Deportes",FOX Sports
+http://138.59.227.20:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-id="telemundo" tvg-name="Telemundo" tvg-logo="https://logo.clearbit.com/telemundo.com?size=128" group-title="Nacionales",Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+#EXTINF:-1 tvg-id="clarosports" tvg-name="Claro Sports" tvg-logo="https://logo.clearbit.com/clarosports.com?size=128" group-title="Deportes",Claro Sports
+http://45.171.64.30:6060/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="tennischannel" tvg-name="Tennis Channel" tvg-logo="https://logo.clearbit.com/tennischannel.com?size=128" group-title="Deportes",Tennis Channel
+https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
+#EXTINF:-1 tvg-id="discoveryseries" tvg-name="Discovery Series" tvg-logo="https://logo.clearbit.com/discovery.com?size=128" group-title="Documentales",Discovery Series
+http://45.171.64.30:6060/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://logo.clearbit.com/tlc.com?size=128" group-title="Documentales",TLC
+http://38.134.250.110:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="https://logo.clearbit.com/animalplanet.com?size=128" group-title="Documentales",Animal Planet
+http://190.128.214.97:64333/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="natgeo" tvg-name="NatGeo" tvg-logo="https://logo.clearbit.com/nationalgeographic.com?size=128" group-title="Documentales",NatGeo
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="https://logo.clearbit.com/history.com?size=128" group-title="Documentales",History
+http://190.93.224.42/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="history2" tvg-name="History 2" tvg-logo="https://logo.clearbit.com/history.com?size=128" group-title="Documentales",History 2
+http://190.93.224.42/HISTORY-2/index.m3u8
+#EXTINF:-1 tvg-id="turbodiscovery" tvg-name="Turbo Discovery" tvg-logo="https://logo.clearbit.com/discovery.com?size=128" group-title="Documentales",Turbo Discovery
+http://38.134.250.110:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="lasestrellas" tvg-name="Las Estrellas" tvg-logo="https://logo.clearbit.com/lasestrellas.tv?size=128" group-title="Nacionales",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="adnnoticias" tvg-name="ADN Noticias" tvg-logo="https://logo.clearbit.com/adn40.mx?size=128" group-title="Noticias",ADN Noticias
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="cinema" tvg-name="Cinema" tvg-logo="https://logo.clearbit.com/azteca.com?size=128" group-title="Películas",Cinema
+http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
+#EXTINF:-1 tvg-id="corazntv" tvg-name="Corazón TV" tvg-logo="https://logo.clearbit.com/televisa.com?size=128" group-title="Entretenimiento",Corazón TV
+http://200.115.120.1:8000/play/ca020/index.m3u8
+#EXTINF:-1 tvg-id="azteca7" tvg-name="Azteca 7" tvg-logo="https://logo.clearbit.com/azteca7.com?size=128" group-title="Nacionales",Azteca 7
+http://187.245.231.226:8000/play/a0uz/index.m3u8
+#EXTINF:-1 tvg-id="nitrotv" tvg-name="Nitro TV" tvg-logo="https://logo.clearbit.com/tubitv.com?size=128" group-title="Entretenimiento",Nitro TV
+https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
+#EXTINF:-1 tvg-id="aztecamundo" tvg-name="Azteca Mundo" tvg-logo="https://logo.clearbit.com/azteca.com?size=128" group-title="Nacionales",Azteca Mundo
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="bandamax" tvg-name="Bandamax" tvg-logo="https://logo.clearbit.com/bandamax.tv?size=128" group-title="Música",Bandamax
+http://181.78.106.127:5000/play/ca064/index.m3u8
+#EXTINF:-1 tvg-id="canal5" tvg-name="Canal 5" tvg-logo="https://logo.clearbit.com/canal5.com.mx?size=128" group-title="Nacionales",Canal 5
+http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="milenio" tvg-name="Milenio" tvg-logo="https://logo.clearbit.com/milenio.com?size=128" group-title="Noticias",Milenio
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-id="telehit" tvg-name="Telehit" tvg-logo="https://logo.clearbit.com/telehit.com?size=128" group-title="Música",Telehit
+http://200.115.120.1:8000/play/ca048/index.m3u8
+#EXTINF:-1 tvg-id="tlnovelashd" tvg-name="Tlnovelas HD" tvg-logo="https://logo.clearbit.com/tlnovelas.com?size=128" group-title="Series",Tlnovelas HD
+http://138.121.15.230:9002/TELENOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="canaldelasestrellas" tvg-name="Canal de las Estrellas" tvg-logo="https://logo.clearbit.com/lasestrellas.tv?size=128" group-title="Nacionales",Canal de las Estrellas
+http://200.115.120.1:8000/play/ca110/index.m3u8
