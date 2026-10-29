@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="axnespaol" tvg-name="AXN Español" tvg-logo="https://logo.clearbit.com/axn.com?size=128" group-title="Series",AXN Español
+#EXTINF:-1 tvg-id="axnespaol" tvg-name="AXN Español" tvg-logo="https://i.imgur.com/T1LqGv7.png" group-title="Series",AXN Español
 http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTINF:-1 tvg-id="tntingls" tvg-name="TNT Inglés" tvg-logo="https://logo.clearbit.com/tntdrama.com?size=128" group-title="Películas",TNT Inglés
 http://181.78.211.244:8005/play/a09g/index.m3u8
